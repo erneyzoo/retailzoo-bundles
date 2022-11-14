@@ -1,4 +1,5 @@
 {
+    "name": "retailzoo/services",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
