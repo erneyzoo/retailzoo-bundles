@@ -1,0 +1,4 @@
+services:
+  RZ\Services\RZConfig:
+    arguments:
+      stipeToken: '%env(STRIPE_KEY)%'
