@@ -9,6 +9,8 @@
         "name": "Retail Zoo Digital Developers",
         "homepage": "https://github.com/erneyzoo"
     }],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "php": ">=8.1",
         "ext-ctype": "*",
